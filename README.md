@@ -47,4 +47,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### About Project
 
-This project was made using React library , to style the web page CSS was used. This website allows user to look up any movie online. Searching and fetching is carried out through API calls to imdob. Which returns a response during the fetch period these results are then shown  in format of card components to the user.
+This project was made using React library , to style the web page CSS was used. This website allows user to look up any movie online. Searching and fetching is carried out through API calls to imdob. Which returns a response during the fetch period, these results are then shown  in format of card components to the user.
